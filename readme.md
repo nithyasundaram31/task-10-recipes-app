@@ -2,7 +2,7 @@ Recipe-App:
 
 The Recipe-App created complete functionality of CRUD for recipes.
 
-MVC pattern with seperate folders  to create this app.
+create a folder structure of mvc pattertn 
 
 Then start the server and connected with MongoDB database.
 
@@ -12,8 +12,8 @@ postman documentation url:
 https://documenter.getpostman.com/view/44309120/2sB2j3BBxf
 
 Technologies used to this app
-Express.js
-Node.js
-MongoDB database
-Postman App
-Mongoose library
+-Express.js
+-Node.js
+-MongoDB database
+-Postman App
+-Mongoose library
