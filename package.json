@@ -1,0 +1,29 @@
+{
+  "name": "task-10-recipes-app",
+  "version": "1.0.0",
+  "description": "My first task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nithyasundaram31/task-10-recipes-app.git"
+  },
+  "author": "Nithya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nithyasundaram31/task-10-recipes-app/issues"
+  },
+  "homepage": "https://github.com/nithyasundaram31/task-10-recipes-app#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.0"
+  }
+}
